@@ -30,7 +30,7 @@ This code challenge can be broken down into 7 steps. It is recommended that you 
 3. **Listen** for when a user tries to add a new message
 4. When a user makes a message, **Render** the new message in the message list *without refreshing the page*
 5. When a user makes a message, **Send** the message to the server so that it persists
-6. Use `setInterval` to re-request the messages every 500 ms and re-render them to in the list
+6. Use `setInterval` to re-request the messages every 500 ms and re-render them in the list
 7. **Refactor** your code to make it as *clean* as possible
 
 #### Getting the messages
